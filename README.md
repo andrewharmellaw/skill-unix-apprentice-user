@@ -20,7 +20,7 @@
   * 
 
 ## [EXPERIENCE SUGGESTIONS]
-  * 
+  * Take a look at [Julia Evans' Zines](https://jvns.ca/zines/) - They teach you Unix commands, and they are comix!
 
 ## [ADVENTURER NOTES]
   * 
